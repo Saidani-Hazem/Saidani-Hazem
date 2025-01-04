@@ -1,3 +1,7 @@
+
+![saidani hazem (1)](https://github.com/user-attachments/assets/c7e56e3b-b2c5-43bb-9fdc-6957d5627d2a)
+
+
 # 👋 Hi, I’m @Saidani-Hazem
 - 👀 I’m interested in Data analysis and back-end development
 - 🌱 I’m currently learning Mern Stack & Talend
@@ -5,10 +9,3 @@
 - 📫 How to reach me: hazemsaiidani@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<!---
-Saidani-Hazem/Saidani-Hazem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![saidani hazem (4)](https://github.com/user-attachments/assets/e8837bf3-0294-45f9-b7e6-f5a3c6d66fda)
